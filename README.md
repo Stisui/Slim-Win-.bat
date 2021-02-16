@@ -1,1 +1,1 @@
-# Slim-Win-.bat
+# Slim-Win.bat
